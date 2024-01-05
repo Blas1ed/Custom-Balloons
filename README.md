@@ -17,8 +17,8 @@ first make a new folder in assets called "AssetBundles" then
 Make a GameObject in the project make sure to add a "Knot" and a "Collider" in the GameObject the knot is where the string line goes into then once you make it a prefab you assign a asset bundle to it then right click and build asset bundles your file will be in the folder AssetBundles! the name of the gameobject is what the name of the custom balloon is ingame more on asset bundles here https://docs.unity3d.com/Manual/AssetBundlesIntro.html
 
 # Required Mods
-Utilla 1.5.0
-ComputerPlusPlus 1.0.1
+1. Utilla 1.5.0
+2. ComputerPlusPlus 1.0.1
 
 # Info
 This mod is made by Blas1ed and the pad is also made by me Blas1ed you can contact me in the Gorilla Tag Modding Discord under @Blas1ed or you can dm me!
