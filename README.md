@@ -14,6 +14,8 @@ Template Project: https://drive.google.com/drive/u/0/folders/18qAxg3fDaaFeaPpoRd
 How to: 
 Make a GameObject in the project make sure to add a "Knot" and a "Collider" in the GameObject the knot is where the string line goes into then once you make it a prefab you assign a asset bundle to it then right click and build asset bundles your file will be in the folder AssetBundles! the name of the gameobject is what the name of the custom balloon is ingame more on asset bundles here https://docs.unity3d.com/Manual/AssetBundlesIntro.html
 
+you can also use the template model as a base or for size comparision!
+
 # Required Mods
 1. Utilla 1.5.0
 2. ComputerPlusPlus 1.0.1
