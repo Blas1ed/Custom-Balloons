@@ -9,7 +9,7 @@ Start the game once with the DLL installed so it will create the folder for cust
 2. Test Cube
 
 # Unity Project
-you do have to make your own project for making models due to issues getting it uploaded though i have provided the Asset Bundle Builder in the repo!
+you do have to make your own project for making models due to issues getting it uploaded though i have provided the Asset Bundle Builder in the repo make sure your project is made in URP and all materials are URP!
 
 How to:
 first make a new folder in assets called "AssetBundles" then
