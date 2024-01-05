@@ -16,6 +16,7 @@ you can also look at the Template model in the project
 This mod is made by Blas1ed and the pad is also made by me Blas1ed you can contact me in the Gorilla Tag Modding Discord under @Blas1ed or you can dm me!
 
 # Stats
+![GitHub all releases](https://img.shields.io/github/downloads/Blas1ed/Custom-Balloons/total?color=%2300FF00)
 
 # Credits For Models
 Jman Head Model https://sketchfab.com/3d-models/jman-curly-head-fa2dca363e6748e385ea9d7851e9cb2f#download
