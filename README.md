@@ -14,3 +14,6 @@ Make a GameObject in the project make sure to add a "Knot" and a "Collider" in t
 This mod is made by Blas1ed and the pad is also made by me Blas1ed you can contact me in the Gorilla Tag Modding Discord under @Blas1ed or you can dm me!
 
 # Stats
+
+# Credits For Models
+Jman Head Model https://sketchfab.com/3d-models/jman-curly-head-fa2dca363e6748e385ea9d7851e9cb2f#download
