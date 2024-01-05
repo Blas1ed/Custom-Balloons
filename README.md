@@ -5,8 +5,8 @@ A gorilla tag mod that allows you to load custom balloons!
 Start the game once with the DLL installed so it will create the folder for custom balloons then drag and drop any Unity asset bundle (with the correct stuff in it more on this below) then load the game and enable one or more of the custom balloons using the ingame pad!
 
 # Base Models
-Jman Curly Head
-Test Cube
+1. Jman Curly Head
+2. Test Cube
 
 # Unity Project
 Here is the unity project for creating custom balloons https://github.com/Blas1ed/Custom-Balloons-Unity-Project!
