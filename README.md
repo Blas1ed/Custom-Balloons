@@ -15,6 +15,8 @@ you can also look at the Template model in the project
 # Info
 This mod is made by Blas1ed and the pad is also made by me Blas1ed you can contact me in the Gorilla Tag Modding Discord under @Blas1ed or you can dm me!
 
+This is the official Custom Balloons Discord: https://discord.gg/bnBcZCArnu
+
 # Stats
 ![GitHub all releases](https://img.shields.io/github/downloads/Blas1ed/Custom-Balloons/total?color=%2300FF00)
 
