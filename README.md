@@ -23,7 +23,7 @@ Make a GameObject in the project make sure to add a "Knot" and a "Collider" in t
 # Info
 This mod is made by Blas1ed and the pad is also made by me Blas1ed you can contact me in the Gorilla Tag Modding Discord under @Blas1ed or you can dm me!
 
-Open Menu Button = Left Controller X
+Open Custom Balloons Pad Button = Left Controller X
 
 This is the official Custom Balloons Discord where you can download custom balloons that people upload!: https://discord.gg/bnBcZCArnu
 
